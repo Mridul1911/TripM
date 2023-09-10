@@ -7,6 +7,7 @@ and analytics to help the agency make informed business decisions. Admins can al
 
 On the driver side, TripM allows drivers to manage their trips, expenses, and payments. Drivers can view their assigned trips, update trip status, 
 and submit expenses for reimbursement. 
+![1](https://github.com/Mridul1911/TripM/assets/77963406/daa1f719-ec89-4683-abc5-7de0494ca559)
 <img width="960" alt="8" src="https://github.com/Mridul1911/TripM/assets/77963406/9e43ddef-15bc-4073-bb23-6ea55285e931">
 <img width="960" alt="9" src="https://github.com/Mridul1911/TripM/assets/77963406/830f7db3-0d73-4e29-b910-ef9e4f01826e">
 <img width="959" alt="10" src="https://github.com/Mridul1911/TripM/assets/77963406/f6a83ad3-0c9b-456c-946e-1a6874b676e5">
